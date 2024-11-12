@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toggle Visibility Example</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f2f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            width: 300px;
+        }
+        button {
+            padding: 10px 15px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            margin-top: 20px;
+            cursor: pointer;
+            transition: background-color 0.4s;
+        }
+        button:hover {
+            background-color: white;
+            color: #007bff;
+            border: 1px solid #007bff;
+            border-radius: 4px;
+        }
+        .toggle-div {
+            display: none; /* Initially hidden */
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="toggle-div" id="toggleDiv">
+            This is a toggled div! Click the button to hide me.
+        </div>
+        <button id="toggleButton">Show</button>
+
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            $('#toggleButton').on('click', function() {
+                $('#toggleDiv').toggle(); // Toggle the visibility of the div
+
+                // Update button text based on visibility
+                if ($('#toggleDiv').is(':visible')) {
+                    $(this).text('Hide');
+                } else {
+                    $(this).text('Show');
+                }
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,124 @@
+{
+    "books": [
+        {
+            "title": "Pride and Prejudice",
+            "authors": [{"name": "Jane Austen"}],
+            "first_publish_year": 1813,
+            "image": "https://covers.openlibrary.org/b/id/8221256-M.jpg"
+        },
+        {
+            "title": "1984",
+            "authors": [{"name": "George Orwell"}],
+            "first_publish_year": 1949,
+            "image": "https://covers.openlibrary.org/b/id/8203278-M.jpg"
+        },
+        {
+            "title": "Moby Dick",
+            "authors": [{"name": "Herman Melville"}],
+            "first_publish_year": 1851,
+            "image": "https://covers.openlibrary.org/b/id/8213469-M.jpg"
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "authors": [{"name": "Harper Lee"}],
+            "first_publish_year": 1960,
+            "image": "https://covers.openlibrary.org/b/id/8224447-M.jpg"
+        },
+        {
+            "title": "The Great Gatsby",
+            "authors": [{"name": "F. Scott Fitzgerald"}],
+            "first_publish_year": 1925,
+            "image": "https://covers.openlibrary.org/b/id/8240924-M.jpg"
+        },
+        {
+            "title": "War and Peace",
+            "authors": [{"name": "Leo Tolstoy"}],
+            "first_publish_year": 1869,
+            "image": "https://covers.openlibrary.org/b/id/8228441-M.jpg"
+        },
+        {
+            "title": "The Catcher in the Rye",
+            "authors": [{"name": "J.D. Salinger"}],
+            "first_publish_year": 1951,
+            "image": "https://covers.openlibrary.org/b/id/8201872-M.jpg"
+        },
+        {
+            "title": "Brave New World",
+            "authors": [{"name": "Aldous Huxley"}],
+            "first_publish_year": 1932,
+            "image": "https://covers.openlibrary.org/b/id/8228133-M.jpg"
+        },
+        {
+            "title": "The Picture of Dorian Gray",
+            "authors": [{"name": "Oscar Wilde"}],
+            "first_publish_year": 1890,
+            "image": "https://covers.openlibrary.org/b/id/8228923-M.jpg"
+        },
+        {
+            "title": "The Hobbit",
+            "authors": [{"name": "J.R.R. Tolkien"}],
+            "first_publish_year": 1937,
+            "image": "https://covers.openlibrary.org/b/id/8231602-M.jpg"
+        },
+        {
+            "title": "Fahrenheit 451",
+            "authors": [{"name": "Ray Bradbury"}],
+            "first_publish_year": 1953,
+            "image": "https://covers.openlibrary.org/b/id/8233494-M.jpg"
+        },
+        {
+            "title": "Crime and Punishment",
+            "authors": [{"name": "Fyodor Dostoevsky"}],
+            "first_publish_year": 1866,
+            "image": "https://covers.openlibrary.org/b/id/8246765-M.jpg"
+        },
+        {
+            "title": "Jane Eyre",
+            "authors": [{"name": "Charlotte Brontë"}],
+            "first_publish_year": 1847,
+            "image": "https://covers.openlibrary.org/b/id/8221254-M.jpg"
+        },
+        {
+            "title": "The Chronicles of Narnia",
+            "authors": [{"name": "C.S. Lewis"}],
+            "first_publish_year": 1950,
+            "image": "https://covers.openlibrary.org/b/id/8202470-M.jpg"
+        },
+        {
+            "title": "The Alchemist",
+            "authors": [{"name": "Paulo Coelho"}],
+            "first_publish_year": 1988,
+            "image": "https://covers.openlibrary.org/b/id/8201507-M.jpg"
+        },
+        {
+            "title": "The Grapes of Wrath",
+            "authors": [{"name": "John Steinbeck"}],
+            "first_publish_year": 1939,
+            "image": "https://covers.openlibrary.org/b/id/8240528-M.jpg"
+        },
+        {
+            "title": "The Kite Runner",
+            "authors": [{"name": "Khaled Hosseini"}],
+            "first_publish_year": 2003,
+            "image": "https://covers.openlibrary.org/b/id/8221960-M.jpg"
+        },
+        {
+            "title": "The Catch-22",
+            "authors": [{"name": "Joseph Heller"}],
+            "first_publish_year": 1961,
+            "image": "https://covers.openlibrary.org/b/id/8224443-M.jpg"
+        },
+        {
+            "title": "The Lord of the Rings",
+            "authors": [{"name": "J.R.R. Tolkien"}],
+            "first_publish_year": 1954,
+            "image": "https://covers.openlibrary.org/b/id/8231574-M.jpg"
+        },
+        {
+            "title": "Wuthering Heights",
+            "authors": [{"name": "Emily Brontë"}],
+            "first_publish_year": 1847,
+            "image": "https://covers.openlibrary.org/b/id/8231455-M.jpg"
+        }
+    ]
+}

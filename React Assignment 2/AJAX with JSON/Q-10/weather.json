@@ -1,0 +1,39 @@
+{
+    "weather": [
+        {
+            "city": "New York",
+            "temperature": 22,
+            "description": "clear sky",
+            "icon": "01d",
+            "image": "https://example.com/images/new-york.jpg"
+        },
+        {
+            "city": "London",
+            "temperature": 15,
+            "description": "light rain",
+            "icon": "10d",
+            "image": "https://example.com/images/london.jpg"
+        },
+        {
+            "city": "Tokyo",
+            "temperature": 28,
+            "description": "few clouds",
+            "icon": "02d",
+            "image": "https://example.com/images/tokyo.jpg"
+        },
+        {
+            "city": "Los Angeles",
+            "temperature": 25,
+            "description": "sunny",
+            "icon": "01d",
+            "image": "https://example.com/images/los-angeles.jpg"
+        },
+        {
+            "city": "Paris",
+            "temperature": 18,
+            "description": "overcast clouds",
+            "icon": "04d",
+            "image": "https://example.com/images/paris.jpg"
+        }
+    ]
+}
